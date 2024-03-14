@@ -1,0 +1,8 @@
+udm:ApplicationInformation:
+  SubjectList:
+    ?- udm:Subject:
+        SubjectRole: "заемщик"
+        RegistrationAddress:
+          Region: "Новосибирская обл."
+        SubjectIncome: > 60000
+        
